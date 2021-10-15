@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto:ital,wght@1,300&display=swap');
+/* font-family: 'Inconsolata', monospace;
+font-family: 'Roboto', sans-serif; */
+/* 
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.first_heading{
+    background-color: green;
+    color: white;
+}
+#section-1  span{
+    margin-left: 35%;
+}
+.section-left img{
+    margin-right: 90%;
+}
+.footer{
+    background-color: #24262b;
+    height: 50vh;
+    width: 100%;
+    margin-top: 80%;
+    padding: 70px 0;
+}
+ .container{
+    max-width: 1170px;
+    margin: auto;
+} 
+.section-right{
+    max-width: 50%;
+    float: right;
+    background-color: red;
+}
+.section-left{
+    width: 50%;
+} */
+ /*
+h1{
+    line-height: 1.5;
+    text-transform: capitalize;
+    padding: 2px;
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+} */
+/* .copyright{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.free-quote{
+    margin-bottom: 50%;
+}
+form{
+    padding: 20px;
+}
+form input{
+    padding: 9px;
+    border-radius: 4px;
+    
+}
+form button{
+    padding: 9px 35px;
+    background-color: orange;
+    color: white;
+    font-size: 19px;
+    border-radius: 4px;
+    text-transform: capitalize;
+}
+.clint-testimonal{
+    text-align: center;
+
+}
+.clind h1{
+    float: right;
+    margin-right: 40px;
+}
+.all-eqip{
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(to left,green, blue);
+}
+.all-eqip button{
+    padding: 10px 12px;
+    float: right;    
+}
+.equipment-devision{
+    padding: 30px;
+    
+}
+.equipment-devision h3{
+    color: blue;
+}
+.equipment-devision button{
+    background-color: blue;
+    padding: 10px 15px;
+    color: white;
+    text-transform: capitalize;
+} */

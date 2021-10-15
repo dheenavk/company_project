@@ -1,0 +1,346 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+._info{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 12px;    
+}
+._info span{
+    padding-left: 50px;
+}
+._logo{
+
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 12px;
+    padding-bottom: 30px;
+}
+._logo img{
+    height: 50px;
+    width: 70px;
+    margin-bottom: -26px;
+}
+._logo a{
+    color: green;
+    font-weight: bold;
+    text-decoration: none;
+}
+._certified{
+    width: 60%;
+    float: right;
+    padding-bottom: 25px;
+}
+._certified p{
+    width: 15%;
+    float: left;
+    margin-right: 5px;
+    padding-right: 20px;
+    padding-left: 10px;
+    margin-top: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+._certified img{
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
+._certified i{
+    font-size: 10px;
+    width: 12%;
+}
+._certified button{
+    background-color: green;
+    color: white;
+    margin-top: 20px;    
+    padding:6px;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px 0 white;
+}
+nav{
+    position: sticky;
+    margin-left:140px;
+    margin-right: 20px;
+    padding-right: 20px;
+    height: 45px;
+    width: 70%;
+    background-color: blue;
+    margin-top: 90px;
+    display: flex;
+}
+nav ul{
+    float: left;
+    display: flex;
+    list-style-type: none;
+}
+nav ul li {
+    text-align: center;
+    padding-right: 65px;
+    padding-top: 12px;
+    padding-left: 23px;
+    
+}
+nav ul li a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none; 
+}
+nav ul li a:hover{
+    border-bottom: 3px solid white;
+    padding-bottom: 7px;
+}
+.banner-section {
+    width: 100%;
+    height: 100%;
+}
+.banner-section h1{
+    text-align: center;
+    margin-top: -20px;
+    padding-top: 210px;
+    padding-left: 30px;
+    font-size: 85px;
+    color: white;
+}
+.banner-section h2{
+    color: white;
+    text-align: center;
+    margin-top: -30px;
+    background-color: blue;
+    margin-left: 415px;
+    margin-right: 400px;    
+    padding: 12px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.banner-section h3{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.banner-section p {
+    text-align: center;
+    color: white;
+    padding-bottom: 250px;
+    padding-left: 225px;
+    padding-right: 225px;
+}
+.banner-bottom .banner-bottom-1{
+    padding: 80px;
+    margin-left: 110px;
+    margin-top: -99px;
+    color: white;
+    float: left;
+    
+}
+
+.banner-bottom .banner-bottom-3{
+    padding: 80px;
+    color: white;
+    float: right;
+    margin-top: -100px;
+    margin-right: 100px;
+}
+.banner-bottom .banner-bottom-2{
+    justify-content: center;
+    float: left;
+    margin-left: 12px;
+}
+.banner-bottom-2{
+    padding:80px ;
+    margin-top: -98px;
+    margin-bottom: 90px;
+}
+.about-us{
+    background-color: rgb(201, 198, 198);
+    box-sizing: border-box;
+    justify-content: center;
+    height: 80vh;
+    
+}
+.about-us .about-us-right .button-1{
+    background-color: blue;
+    padding: 12px;
+    color: white;
+    font-size: 10px;
+}
+.about-us .about-us-right .button-2{
+    background-color:rgb(201, 198, 198);
+    font-size: 10px;
+    color: black;
+    padding: 12px;
+    border:1px solid black;
+    padding-left: 10px;
+}
+.about-us .about-us-left{
+    width: 30%;
+    margin-left: 120px;
+    justify-content: center;
+}
+.about-us .about-us-right{
+    width: 70%;
+    margin-top:-240px;
+    float: right;
+}
+.about-us .about-us-left img{
+    width: 200px;
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.about-us .about-us-left p{
+    font-size: 24px;
+    margin-right: 20px;
+    color: gray;
+    padding-bottom: 22px;    
+}
+.about-us .about-us-right img{
+    padding: 20px;
+    margin-top: -65px;
+}
+.about-us .about-us-right p {
+    padding: 16px;
+    margin-right: 30px;
+    color: gray;
+}
+.about-us .about-us-right .button-1{
+    margin-left: 14px;
+}
+.about-us .about-us-right .button-2{
+    margin-left: 27px;
+}
+.equipment-devision{
+    height: 30vh;
+    box-sizing: border-box;
+}
+.equipment-devision h3{
+    color: blue;
+    font-size: 20px;
+    margin-left: 90px;
+    padding-top: 40px;
+
+}
+.equipment-devision p{
+    float: left;
+    margin-left: 390px;
+    margin-right: 400px;
+    margin-bottom: -60px;
+    padding-bottom: 30px;
+}
+.equipment-devision button{
+    float: right;
+    padding:12px;
+    background-color: blue;
+    color: white;
+    margin-right: 120px;
+    margin-top: -40px;
+}
+.equipment .first h3{
+    width: 599px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    float: left;
+}   
+.equipment .first img{
+    float: right;
+    width: 375px;
+    padding-top: -120px;
+    height: 300px;
+}
+.equipment .secent h3{
+   width: 290px;
+   height: 300px;
+   margin-left: 420px;
+   margin-top: -345px;
+}
+.equipment .secent p {
+    float: right;
+    margin-top: -300px;
+}
+.equipment .secent p img{
+    width: 639px;
+    height: 300px;
+}
+.equipment .third h3{
+    width: 600px;
+    height: 357px;
+    margin-left: 400px;
+    margin-top: -360px;
+    color: white;
+    text-align: center;
+    
+}
+.equipment .third p img{
+    float: right;
+    margin-top: -350px;
+    
+}
+.card .card-1{
+    width: 25%;
+    margin-top: 80px;
+}
+.card .card-2{
+    width: 25%;
+    margin-left: 450px;
+    margin-top: -398px;
+}
+.card .card-3{
+    width: 30%;
+    float: right;
+    margin-top: -405px;
+    margin-left: -60px;
+} 
+.equip-sup{
+    background-color: blue;
+    color: white;
+    padding: 25px;
+    margin-top:100px ;
+
+}
+.equip-sup  button{
+    float: right;
+    margin-right: 55px; 
+    padding: 12px;
+    margin-top: -45px;
+    color: green;
+}
+.equip-sup h3{
+    font-size: 30px;
+    width: 35%;
+    margin-left: 20px;
+    padding-top: 20px;
+    text-align: justify;
+}
+.equip-sup p{
+    font-size: 12px;
+    width: 35%;
+    padding-top: 12px;
+    margin-bottom: 20px;
+}
+.clind-test .one h1{
+    margin-left: 430px;
+    margin-top:20px ;
+}
+.clind-test .one p{
+    margin-left: 230px;
+    margin-bottom: 30px;
+}
+.clind-test .clind-test-1 img{
+    margin-left: 200px;
+    margin-bottom: 40px;
+    
+}
+.clind-test .clind-test-1 h1{
+    padding: 20px;
+    margin-right: 500px;
+    float: right;
+}
+.clind-test .clind-test-1 p {
+   padding-left: 700px;
+   margin-top: -200px;
+}   
